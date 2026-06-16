@@ -1,6 +1,6 @@
 from yt_dlp import YoutubeDL
 
-url = input("Enter YouTube Video URL: https://youtu.be/VXtjG_GzO7Q?si=0vORTSRfKv-8FfG-")
+url = input("Enter YouTube Video URL:")
 
 # download options
 ydl_opts = {
